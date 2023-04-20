@@ -6,20 +6,8 @@ Author: Owen Hoffman
 Author URI: https://owenhoffman.net
 Description: Child theme for Astra
 Tags: custom-menu,custom-logo,entertainment,one-column,two-columns,left-sidebar,e-commerce,right-sidebar,custom-colors,editor-style,featured-images,full-width-template,microformats,post-formats,rtl-language-support,theme-options,threaded-comments,translation-ready,blog
-Version: 4.1.3.1681862207
-Updated: 2023-04-18 23:56:47
+Version: 4.1.3.1681419059
+Updated: 2023-04-13 20:50:59
 
 */
 
-
-a.print_link {
-    display: inline-block;
-    width: 30px;
-    height: 30px;
-    content: '';
-    vertical-align: -.125em;
-    background-image: url(assets/printer-fill.svg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    fill: white;
-}
