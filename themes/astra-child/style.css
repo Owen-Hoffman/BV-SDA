@@ -23,3 +23,26 @@ a.print_link {
     background-size: cover;
     fill: white;
 }
+
+.site-branding{
+    text-align: center;
+}
+
+.main-header-bar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+.site-content {
+    padding-top: 115px;
+}
+@media (max-width: 800px) {
+    .site-content {
+        padding-top: 145px;
+    }
+}
+@media (max-width: 650px) {
+    .site-content {
+        padding-top: 145px;
+    }
+}
